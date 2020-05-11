@@ -12,13 +12,11 @@ ________________________________________________________________________________
 -->this file is the jupyter notebook for opencv implementation of the model
 4.Haarcascade_frontalface_default.xml
 -->This is the model of opencv for the face recognition
-______________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________
 examples
 
 
-x-special/nautilus-clipboard
-copy
-file:///home/jenil/Pictures/github1.png
+![](github1.png)
 _______________________________________________________HAPPYFACE______________________________________________________________
 x-special/nautilus-clipboard
 copy
