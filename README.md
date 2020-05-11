@@ -2,7 +2,8 @@
 ******************************************************************************************************************************
 This project aims on detecting human faces expressions
 ******************************************************************************************************************************
-Attachments:-/n
+Attachments
+______________________________________________________________________________________________________________________________
 1.Emotion_little_vgg.h5
 -->this file is the pre-trained model if you want you can use it directly
 2.Human_expression_recognition.ipynb
@@ -11,4 +12,23 @@ Attachments:-/n
 -->this file is the jupyter notebook for opencv implementation of the model
 4.Haarcascade_frontalface_default.xml
 -->This is the model of opencv for the face recognition
+______________________________________________________________________________________________________________________________
+examples
 
+
+x-special/nautilus-clipboard
+copy
+file:///home/jenil/Pictures/github1.png
+_______________________________________________________HAPPYFACE______________________________________________________________
+x-special/nautilus-clipboard
+copy
+file:///home/jenil/Pictures/github2.png
+_______________________________________________________NEUTRALFACE___________________________________________________________
+x-special/nautilus-clipboard
+copy
+file:///home/jenil/Pictures/github3.png
+_______________________________________________________AGNGRYFACE____________________________________________________________
+x-special/nautilus-clipboard
+copy
+file:///home/jenil/Pictures/github4.png
+______________________________________________________SURPRISEDFACE__________________________________________________________
